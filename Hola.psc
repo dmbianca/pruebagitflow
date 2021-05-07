@@ -1,4 +1,4 @@
 Proceso sin_titulo
 	Escribir "HolaHola que tal";
-	Escribir "Heyyyy";
+	Escribir "Heyyyyyyyy";
 FinProceso
